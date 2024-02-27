@@ -1,0 +1,7 @@
+C:\Users\ALUNO\source\repos\exerc7\exerc7\obj\Debug\exerc7.csproj.AssemblyReference.cache
+C:\Users\ALUNO\source\repos\exerc7\exerc7\obj\Debug\exerc7.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\source\repos\exerc7\exerc7\bin\Debug\exerc7.exe.config
+C:\Users\ALUNO\source\repos\exerc7\exerc7\bin\Debug\exerc7.exe
+C:\Users\ALUNO\source\repos\exerc7\exerc7\bin\Debug\exerc7.pdb
+C:\Users\ALUNO\source\repos\exerc7\exerc7\obj\Debug\exerc7.exe
+C:\Users\ALUNO\source\repos\exerc7\exerc7\obj\Debug\exerc7.pdb
